@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1040/trunk/src/ftplugin/gitconfig
+END
+test.page.windef
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/955/trunk/src/ftplugin/gitconfig/test.page.windef
+END
+test.page
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1040/trunk/src/ftplugin/gitconfig/test.page
+END
+gitconfig.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/894/trunk/src/ftplugin/gitconfig/gitconfig.xpt.vim
+END

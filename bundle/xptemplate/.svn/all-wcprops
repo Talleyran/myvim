@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/1047/trunk/src
+END
+test.bat
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1040/trunk/src/test.bat
+END
+todo
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/1046/trunk/src/todo
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1045/trunk/src/VERSION
+END
+xpt.ex
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1045/trunk/src/xpt.ex
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1040/trunk/src/test.sh
+END

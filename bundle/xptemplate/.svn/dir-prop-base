@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 5
+tags
+
+K 13
+svn:mergeinfo
+V 224
+/branches/FilterValue/src:575-748
+/branches/relayout/src:913,916
+/branches/xp-dev/src:287-309
+/branches/xp-embed-lang/src:347-353
+/branches/xp-eruby/src:358-371
+/branches/xp-jquery/src:383-392
+/branches/xp-strict/src:423-436
+END

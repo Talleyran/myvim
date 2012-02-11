@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1025/trunk/src/ftplugin/_comment
+END
+doubleSign.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1025/trunk/src/ftplugin/_comment/doubleSign.xpt.vim
+END
+singleDouble.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/806/trunk/src/ftplugin/_comment/singleDouble.xpt.vim
+END
+doubleSingle.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/806/trunk/src/ftplugin/_comment/doubleSingle.xpt.vim
+END
+pattern.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/500/trunk/src/ftplugin/_comment/pattern.xpt.vim
+END
+xml.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/482/trunk/src/ftplugin/_comment/xml.xpt.vim
+END
+singleSign.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1025/trunk/src/ftplugin/_comment/singleSign.xpt.vim
+END
+cpp.like.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/500/trunk/src/ftplugin/_comment/cpp.like.xpt.vim
+END
+c.like.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/500/trunk/src/ftplugin/_comment/c.like.xpt.vim
+END

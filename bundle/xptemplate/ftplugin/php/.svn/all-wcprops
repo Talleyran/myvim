@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1040/trunk/src/ftplugin/php
+END
+php.ftdetect.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/746/trunk/src/ftplugin/php/php.ftdetect.vim
+END
+test.page.bare
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/814/trunk/src/ftplugin/php/test.page.bare
+END
+test.page.windef
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/954/trunk/src/ftplugin/php/test.page.windef
+END
+test.page
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1040/trunk/src/ftplugin/php/test.page
+END
+php.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/806/trunk/src/ftplugin/php/php.xpt.vim
+END

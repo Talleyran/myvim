@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1040/trunk/src/ftplugin/actionscript
+END
+test.page.bare
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1040/trunk/src/ftplugin/actionscript/test.page.bare
+END
+test.page.windef
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/943/trunk/src/ftplugin/actionscript/test.page.windef
+END
+actionscript.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1025/trunk/src/ftplugin/actionscript/actionscript.xpt.vim
+END
+test.page
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1040/trunk/src/ftplugin/actionscript/test.page
+END

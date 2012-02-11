@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1047/trunk/src/plugin
+END
+debug.vim
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/974/trunk/src/plugin/debug.vim
+END
+FilterValue.class.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/746/trunk/src/plugin/FilterValue.class.vim
+END
+xpopup.vim
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/854/trunk/src/plugin/xpopup.vim
+END
+xptemplate.util.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/746/trunk/src/plugin/xptemplate.util.vim
+END
+xpmark.vim
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/854/trunk/src/plugin/xpmark.vim
+END
+mapstack.vim
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/746/trunk/src/plugin/mapstack.vim
+END
+SettingSwitch.class.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/746/trunk/src/plugin/SettingSwitch.class.vim
+END
+xpop.test.vim
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/484/trunk/src/plugin/xpop.test.vim
+END
+xptemplate.conf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1042/trunk/src/plugin/xptemplate.conf.vim
+END
+xpclass.vim
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/746/trunk/src/plugin/xpclass.vim
+END
+xptemplate.parser.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1045/trunk/src/plugin/xptemplate.parser.vim
+END
+xpt.plugin.highlight.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/840/trunk/src/plugin/xpt.plugin.highlight.vim
+END
+FiletypeScope.class.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/746/trunk/src/plugin/FiletypeScope.class.vim
+END
+SnippetScope.class.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/746/trunk/src/plugin/SnippetScope.class.vim
+END
+MapSaver.class.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/746/trunk/src/plugin/MapSaver.class.vim
+END
+xpreplace.vim
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1026/trunk/src/plugin/xpreplace.vim
+END
+xptemplate.importer.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/746/trunk/src/plugin/xptemplate.importer.vim
+END
+xptemplate.vim
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1047/trunk/src/plugin/xptemplate.vim
+END
+xptemplateTest.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1040/trunk/src/plugin/xptemplateTest.vim
+END
+xptTestKey.vim
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/831/trunk/src/plugin/xptTestKey.vim
+END

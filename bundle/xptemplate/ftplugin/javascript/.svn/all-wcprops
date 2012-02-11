@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1040/trunk/src/ftplugin/javascript
+END
+test.page.bare
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/814/trunk/src/ftplugin/javascript/test.page.bare
+END
+jquery.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/813/trunk/src/ftplugin/javascript/jquery.xpt.vim
+END
+test.page.windef
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/954/trunk/src/ftplugin/javascript/test.page.windef
+END
+javascript.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/806/trunk/src/ftplugin/javascript/javascript.xpt.vim
+END
+test.page
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1040/trunk/src/ftplugin/javascript/test.page
+END

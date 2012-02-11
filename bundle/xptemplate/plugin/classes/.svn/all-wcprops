@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/858/trunk/src/plugin/classes
+END
+FiletypeScope.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/746/trunk/src/plugin/classes/FiletypeScope.vim
+END
+SnippetScope.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/746/trunk/src/plugin/classes/SnippetScope.vim
+END
+MapSaver.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/858/trunk/src/plugin/classes/MapSaver.vim
+END
+SettingSwitch.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/746/trunk/src/plugin/classes/SettingSwitch.vim
+END
+FilterValue.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/746/trunk/src/plugin/classes/FilterValue.vim
+END
+RenderContext.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/746/trunk/src/plugin/classes/RenderContext.vim
+END

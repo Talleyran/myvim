@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1040/trunk/src/ftplugin/htmldjango
+END
+htmldjango.ftdetect.vim
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1020/trunk/src/ftplugin/htmldjango/htmldjango.ftdetect.vim
+END
+test.page.bare
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/814/trunk/src/ftplugin/htmldjango/test.page.bare
+END
+test.page.windef
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/954/trunk/src/ftplugin/htmldjango/test.page.windef
+END
+test.page
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1040/trunk/src/ftplugin/htmldjango/test.page
+END
+htmldjango.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/806/trunk/src/ftplugin/htmldjango/htmldjango.xpt.vim
+END

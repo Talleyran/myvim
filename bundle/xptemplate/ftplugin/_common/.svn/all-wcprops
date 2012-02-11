@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1040/trunk/src/ftplugin/_common
+END
+cmn.counter.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/806/trunk/src/ftplugin/_common/cmn.counter.xpt.vim
+END
+common.bracketcmpl.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/972/trunk/src/ftplugin/_common/common.bracketcmpl.xpt.vim
+END
+common.path.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/806/trunk/src/ftplugin/_common/common.path.xpt.vim
+END
+inlineComplete.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/806/trunk/src/ftplugin/_common/inlineComplete.xpt.vim
+END
+common.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1040/trunk/src/ftplugin/_common/common.xpt.vim
+END

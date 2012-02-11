@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1040/trunk/src/ftplugin/haskell
+END
+test.page.bare
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/814/trunk/src/ftplugin/haskell/test.page.bare
+END
+test.page.windef
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/954/trunk/src/ftplugin/haskell/test.page.windef
+END
+haskell.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/806/trunk/src/ftplugin/haskell/haskell.xpt.vim
+END
+test.page
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1040/trunk/src/ftplugin/haskell/test.page
+END

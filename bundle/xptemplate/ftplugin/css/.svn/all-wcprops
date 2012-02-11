@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1046/trunk/src/ftplugin/css
+END
+test.page.bare
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1040/trunk/src/ftplugin/css/test.page.bare
+END
+test.page.windef
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/943/trunk/src/ftplugin/css/test.page.windef
+END
+test.page
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1040/trunk/src/ftplugin/css/test.page
+END
+css.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1046/trunk/src/ftplugin/css/css.xpt.vim
+END
