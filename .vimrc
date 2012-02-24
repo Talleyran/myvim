@@ -192,8 +192,11 @@ endfunction
 
 if v:version >= 703
     "undo settings
-    set undodir=~/.vim/undofiles
+
+    set undodir=~/.vim/undo
     set undofile
+    set undolevels=1000 "maximum number of changes that can be undone
+    set undoreload=10000 "maximum number lines to save for undo on a buffer reload
 
     set colorcolumn=+1
 endif
@@ -251,8 +254,10 @@ function! s:HighlightLongLines(width)
 endfunction
 
 
-"backup
-set nobackup
+"backup, swap
+set backup
+set backupdir=$HOME/.vim/backup//
+set dir=$HOME/.vim/swp//,/var/tmp//,/tmp//,.
 
 "some stuff to get the mouse going in term
 set mouse=a
