@@ -204,6 +204,7 @@ endif
 "indent settings
 set shiftwidth=2
 set softtabstop=2
+set tabstop=2
 set expandtab
 set autoindent
 
@@ -276,7 +277,7 @@ set guioptions+=b
 
 "color end font
 colorscheme special-vividchalk
-set guifont=Monospace\ 12
+set guifont=Ubuntu\ Mono\ 12
 
 "mark syntax errors
 let g:syntastic_enable_signs=1
