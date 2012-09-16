@@ -273,7 +273,10 @@ set hidden
 "gui
 set guioptions-=T
 set guioptions+=c
-set guioptions+=b
+"set guioptions+=b
+set guioptions-=l
+set guioptions-=r
+set guioptions-=b
 
 "color end font
 colorscheme special-vividchalk
@@ -291,14 +294,26 @@ set tags+=gemtags
 "mapping
    nmap <F4> :call RefreshSyntax()<cr>
    nmap ,, :FufFile<CR>
+   nmap ,l :FufCoverageFile<CR>
+   "nmap ,l :FufTag<CR>
    nmap ,m :FufDir<CR>
    nmap ,k :FufBuffer<CR>
-   nmap ,l :FufTag<CR>
    nmap ,. :FufChangeList<CR>
    nmap ,e :Errors<CR>
    nmap ,r :Rtags<CR>
    nmap ,n :FufRenewCache<CR>
    nmap gt [I:let nr = input("Which one: ")<Bar>exe "normal " . nr ."[\t"<CR>
+
+nnoremap <C-T> :TagbarToggle<CR>
+
+let g:tagbar_type_coffee = {
+    \ 'ctagstype' : 'coffee',
+    \ 'kinds'     : [
+        \ 'f:function',
+        \ 'v:variable',
+        \ 'c:class'
+    \ ],
+\ }
 
 "make <c-l> clear the highlight as well as redraw
 nnoremap <C-L> :nohls<CR><C-L>
