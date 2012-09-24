@@ -1,6 +1,6 @@
 " Vim color scheme
 " Name:         special-vividchalk.vim
-" Author:       Jakovlev Kirill <special-k@li.ru>
+" Author:       Kirill Jakovlev <special-k@li.ru>
 
 " Based on the vividchalk theme by Tim Pope
 " Distributable under the same terms as Vim itself (see :help license)
